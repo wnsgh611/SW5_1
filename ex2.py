@@ -25,7 +25,7 @@ login_url = 'http://new.swmaestro.kr/operate/loginAction.do'
 login_form={'returnUrl' : '',
   'remember' : '',
   'username' : 'wnsgh611',
-  'loginPassword' : '5357kjh',
+  'loginPassword' : 'password',
   'x' : 0,
   'y' : 0
 }
